@@ -1,4 +1,4 @@
-# Hi, I'm Syarifuddin 👋 from Indonesia ID
+# Hi, I'm Syarifuddin 👋 from Indonesia
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Web Development**
@@ -38,25 +38,15 @@ Platforms and courses I'm taking to grow my skills:
 - 🌐 <a href="https://www.w3schools.com/" target="_blank">w3schools</a>
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmesyarif&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmesyarif&show_icons=true&theme=onedark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmesyarif&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmesyarif&layout=compact&theme=onedark)
 
 ## 📫 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/cmesyarif/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:gitsyarif@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://wa.me/6287879292291" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-</p>
+- 💼 [LinkedIn](https://www.linkedin.com/in/cmesyarif/)
+- 📧 [Email](mailto:yourname@email.com)
+- 🌐 [Portfolio](#)
+- 📱 [WhatsApp](https://wa.me/6287879292291)
 
 <!--
 **cmesyarif/cmesyarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
