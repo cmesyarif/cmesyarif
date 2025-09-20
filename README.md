@@ -1,4 +1,4 @@
-# Hi, I'm Syarifuddin from Indonesia ID 👋
+# Hi, I'm Syarifuddin 👋 from Indonesia ID
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Web Development**
@@ -33,8 +33,9 @@
 Platforms and courses I'm taking to grow my skills:
 - 🌐 <a href="https://www.codepolitan.com/" target="_blank">Codepolitan</a>  
 - 🌐 <a href="https://niomic.id/" target="_blank">Niomic</a>  
-- 🌐 <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>  
+- 🌐 <a href="https://www.theodinproject.com/" target="_blank">The Odin Project</a>
 - 🌐 <a href="https://www.freecodecamp.org/" target="_blank">freeCodeCamp</a>
+- 🌐 <a href="https://www.w3schools.com/" target="_blank">w3schools</a>
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmesyarif&show_icons=true&theme=tokyonight)
