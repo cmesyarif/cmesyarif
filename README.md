@@ -38,9 +38,9 @@ Platforms and courses I'm taking to grow my skills:
 - 🌐 <a href="https://www.w3schools.com/" target="_blank">w3schools</a>
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmesyarif&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmesyarif&show_icons=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmesyarif&layout=compact&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmesyarif&layout=compact&theme=gruvbox)
 
 <!--
 **cmesyarif/cmesyarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
