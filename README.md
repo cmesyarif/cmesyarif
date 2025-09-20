@@ -1,4 +1,4 @@
-# Hi, I'm Syarifuddin 👋 from Indonesia
+# Hi, I'm Syarifuddin 👋 from Indonesia ID
 
 ## 🚀 About Me
 - 🌱 I’m currently learning **Web Development**
@@ -38,15 +38,9 @@ Platforms and courses I'm taking to grow my skills:
 - 🌐 <a href="https://www.w3schools.com/" target="_blank">w3schools</a>
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmesyarif&show_icons=true&theme=onedark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cmesyarif&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmesyarif&layout=compact&theme=onedark)
-
-## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/cmesyarif/)
-- 📧 [Email](mailto:yourname@email.com)
-- 🌐 [Portfolio](#)
-- 📱 [WhatsApp](https://wa.me/6287879292291)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cmesyarif&layout=compact&theme=tokyonight)
 
 <!--
 **cmesyarif/cmesyarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
